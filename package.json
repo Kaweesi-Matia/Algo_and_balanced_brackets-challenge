@@ -1,0 +1,13 @@
+{
+  "name": "microverse-admissions",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.26.0",
+    "mocha": "~8.2.1"
+  },
+  "scripts": {
+    "test": "mocha tests.js"
+  }
+}
